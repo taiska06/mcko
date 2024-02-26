@@ -1,6 +1,6 @@
 # Вакансии на работу 
 ## Поиск вакансии 
--[откройте файл vacansy.csv в GitHab]()
+-[откройте файл vacansy.csv в GitHab](# sya)
 
 -[скачайте файл vacansy.csv и программу students.csv]()
 
