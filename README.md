@@ -1,6 +1,6 @@
 # Вакансии на работу 
 ## Поиск вакансии 
--[откройте файл vacansy.csv в GitHab](крнрнео)
+-[откройте файл vacansy.csv в GitHab]()
 
 -[скачайте файл vacansy.csv и programm]()
 
